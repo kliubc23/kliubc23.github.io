@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at the [Speech, Learning, and the Brain (SLaB) Lab](https://slab-lab.github.io) at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Quentin Zhen QIN](https://huma.hkust.edu.hk/people/quentin-z-qin). My PhD study is funded by the prestigious [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (the Research Grants Council of Hong Kong, RGC).
+I am a PhD student at the [Speech, Learning, and the Brain (SLaB) Lab](https://slab-lab.github.io) at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. Quentin Zhen QIN. My PhD study is funded by the prestigious [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (the Research Grants Council of Hong Kong, RGC).
 
 My research focuses on [phonetics](https://en.wikipedia.org/wiki/Phonetics#) and [psycholinguistics](https://en.wikipedia.org/wiki/Psycholinguistics). Currently at HKUST, my work aims to uncover the mechanisms of learning and memory from a psycholinguistic perspective. Specifically, I examine how sleep, including both nocturnal sleep and daytime naps, facilitates non-native tone learning (i.e., [Cantonese](https://en.wikipedia.org/wiki/Cantonese_phonology)) through memory consolidation in older Mandarin-speaking adults. These projects explore the memory encoding, consolidation, and forgetting in aging brains to develop interventions against memory decline. 
 
