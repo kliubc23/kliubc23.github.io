@@ -9,7 +9,7 @@ Publications (Refereed Conference Proceedings)
 
 Presentations
 ======
-* **Liu, K.**, Feng, Y., & Qin, Z. (Forthcoming). Tone learning in aging: an encoding-enhanced training paradigm to promote overnight consolidation. Poster presentation at the *Sixth Joint Meeting of the Acoustical Society of America and the Acoustical Society of Japan*, Honolulu, Hawaii, USA. 
+* **Liu, K.**, Feng, Y., & Qin, Z. (Forthcoming). Tone learning in aging: an encoding-enhanced training paradigm to promote overnight consolidation. Poster presentation at the *6th Joint Meeting of the Acoustical Society of America and the Acoustical Society of Japan*, Honolulu, Hawaii, USA. 
 * **Liu, K.**, Feng, Y., & Qin, Z. (2025). Extended pre-sleep training reinforces memory consolidation of Cantonese tones in older adults. Oral presentation at the *Joint Postgraduate Student Symposium on Language, Culture and Cognition*, Hong Kong: The Hong Kong Polytechnic University.
 * **Liu, K.**, Feng, Y., & Qin, Z. (2024). Does prior knowledge benefit Mandarin-speaking older adults’ memory consolidation in Cantonese tone learning? Poster presentation at the *Architectures and Mechanisms for Language Processing Asia (AMLaP Asia-2024)*, Singapore: National University of Singapore.
 * **Liu, K.**, Feng, Y., & Qin, Z. (2024). Prior knowledge benefits older adults’ tonal consolidation through talker generalization. Poster presentation at the *186th Meeting of the Acoustical Society of America (ASA)*, Ottawa, Canada.
