@@ -18,6 +18,6 @@ Presentations
 * **Liu, K.** (2022). The semantic acquisition of verbs in verb-resultative construction. Oral presentation at the *10th International Symposium on Chinese Function Words and Teaching Chinese as a Foreign Language* **(Awarded the Excellent Paper for Young Researchers)**, Shanghai: Shanghai Normal University.
 * **Liu, K.**, & Liang, L. (2022). The evolution of entering tones in Qixian dialect. Oral presentation at the *34th North American Conference on Chinese Linguistics (NACCL-34)*, Bloomington: Indiana University, USA.
 * **Liu, K.**, & Liang, L. (2022). The acoustic realization and evolutionary trend of entering tones in Qixian dialect. Oral presentation at the *28th Annual Conference of the International Association of Chinese Linguistics (IACL-28)*, Hong Kong: The Chinese University of Hong Kong. 
-* Liang, L., **Liu, K.**, & Wang, J. (2022). A longitudinal study of individual tone variation. Oral presentation at the *28th Annual Conference of the International Association of Chinese Linguistics (IACL-28)*, Hong Kong: The Chinese University of Hong Kong.
+* Liang, L., **Liu, K.**, & Wang, J. (2022). A diachronic study of individual tone variation. Oral presentation at the *28th Annual Conference of the International Association of Chinese Linguistics (IACL-28)*, Hong Kong: The Chinese University of Hong Kong.
 * Liang, L., **Liu, K.**, & Hou, W. (2021). Synchronic tonal variation in Taiyuan Dialect. Oral presentation at the *14th Phonetic Conference of China (PCC-2021)*, Lanzhou: Northwest Minzu University. 
 
