@@ -1,6 +1,7 @@
 ---
 # Publications (Refereed Journal Articles)
-* **Liu, K.**, Liang, L., & Qin, Z. (2024). The role of acoustic cues in the production of checked-unchecked merging tones from the Qixian Jin dialect. *The Journal of the Acoustical Society of America Express Letters*, *4*(12), 125202.
+* Liang, L., **Liu, K.**, Liao, Z., & Wang, J. (2025). A Diachronic Study of Individual Tone Variation. *Linguistic Sciences*, *24*(6): 618. <https://doi.org/10.7509/j.linsci.202509.036961> [CSSCI]
+* **Liu, K.**, Liang, L., & Qin, Z. (2024). The role of acoustic cues in the production of checked-unchecked merging tones from the Qixian Jin dialect. *The Journal of the Acoustical Society of America Express Letters*, *4*(12), 125202. <https://doi.org/10.1121/10.0034496>
 * **Liu, K.**, Chen, Y., & Liang, L. (2021). Gender variation of entering tone in Tongcheng dialect. *Experimental Linguistics*, *10*(2), 64-68.
 
 Publications (Refereed Conference Proceedings)
