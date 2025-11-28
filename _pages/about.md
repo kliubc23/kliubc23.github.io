@@ -43,6 +43,7 @@ Grants
 Awards (selected)
 ======
 * Hong Kong PhD Fellowship (The Research Grants Council of Hong Kong), 2025/2026/2027
+* Outstanding Thesis Award (Linguistic Society of Hong Kong), 2025
 * RedBird PhD Award (HKUST), 2025
 * Dr. Charles Chan Postgraduate Scholarship (HKUST), 2024
 * Excellent Student (Summer School for Postgraduate Students in Jiangsu Province), 2024
