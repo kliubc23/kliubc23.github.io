@@ -31,7 +31,7 @@ Education
 Grants
 ======
 * Research Grants
-  * HUMA Postgraduate Research Grant (HKUST), 2023 – 2025
+  * HUMA Postgraduate Research Grant (HKUST), 2023 – present
   * Postgraduate Student Research Training Project (NKU), 2021
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
@@ -76,7 +76,7 @@ Teaching
 
 Service
 ======
-* HUMA Research Postgraduate (RPg) Student Representative (HKUST), 2024 – 2025
+* HUMA Research Postgraduate (RPg) Student Representative (HKUST), 2024 – present
 * Student Assistant (International Cooperation and Exchange Office of NKU), 2023
 * Social Practice Activity in the Summer Vacation (NKU), 2021
 * Academic Representative of the Postgraduate Student Class Committee (NKU), 2020 – 2023
