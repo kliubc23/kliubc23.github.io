@@ -36,8 +36,8 @@ Grants
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
 * Travel Grants
-  * Student Transportation Subsidy (Acoustical Society of America), 2024
-  * Research Travel Grant (HKUST), 2024
+  * Student Transportation Subsidy (Acoustical Society of America), 2024/2025
+  * Research Travel Grant (HKUST), 2024/2025
   * International Conference Travel Grant (NKU), 2023
 
 Awards (selected)
@@ -83,13 +83,14 @@ Service
 
 Memberships
 ======
+* The Linguistic Society of Hong Kong (LSHK), 2025 – present
 * Acoustical Society of America (ASA), 2024 – present
 * International Association of Chinese Linguistics (IACL), 2022 – 2023
 
 Skills
 ======
 * Phonetics: Praat; VoiceSauce
-* Psychology: E-prime; Psychopy; Paradigm; DmDX; EEG data acquisition (Brain Products)
+* Psychology: E-prime; Psychopy; Paradigm; DmDX; EEG data acquisition
 * Data preprocessing and analysis: R; Python; MATLAB (EEGLAB); SPSS
 * Language: Mandarin (native); English (IELTS 7); Cantonese (beginner)
 
