@@ -61,7 +61,7 @@ Awards (selected)
 
 Research
 ======
-* Project of the HKUST-Southeastern University (SEU) Joint Research Seed Fund (HKUST PI: Prof. Quentin Qin; SEU PI: Prof. Yu Chen), 2026-2027
+* Project of the HKUST-Southeastern University (SEU) Joint Research Seed Fund (HKUST PI: Prof. Quentin Qin; SEU PI: Prof. Yu Chen), 2026 – 2027
   * Members of the Joint Research Team
 
 * Project of the Research Grants Council of Hong Kong (PI: Prof. Quentin Qin), Summer 2024
