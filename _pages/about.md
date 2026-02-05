@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the [Speech, Learning, and the Brain (SLaB) Lab](https://slab-lab.github.io) at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. Quentin Zhen QIN. My PhD study is funded by the prestigious [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (The Research Grants Council of Hong Kong, RGC).
 
-My research focuses on [phonetics](https://en.wikipedia.org/wiki/Phonetics#), [psycholinguistics](https://en.wikipedia.org/wiki/Psycholinguistics), and [neurolinguistics](https://en.wikipedia.org/wiki/Neurolinguistics). Currently at HKUST, my work aims to uncover the mechanisms of learning and memory across the lifespan. My PhD research investigates how emerging technologies (i.e., [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality)) influence the learning and consolidation of lexical tones. I also examine how sleep, including both nocturnal sleep and daytime naps, facilitates non-native tone learning (i.e., [Cantonese](https://en.wikipedia.org/wiki/Cantonese_phonology)) through memory consolidation in older Mandarin-speaking adults.
+My research focuses on [phonetics](https://en.wikipedia.org/wiki/Phonetics#), [psycholinguistics](https://en.wikipedia.org/wiki/Psycholinguistics), and [neurolinguistics](https://en.wikipedia.org/wiki/Neurolinguistics). Currently at HKUST, my work aims to uncover the mechanisms of learning and memory across the lifespan. My PhD research investigates how emerging technologies (i.e., [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality)) influence the learning and consolidation of lexical tones. I also examine how sleep, including both nocturnal sleep and daytime naps, facilitates non-native tone learning through memory consolidation in Mandarin-speaking older adults.
 
 While my current work focuses on non-native tone learning, my earlier research investigated the production-perception link of native tones. My fascination with Chinese tones came from my first research project on tone variation and change. I am also interested in the cross-linguistic study of lexical tones. To date, I have conducted fieldwork on several Chinese dialects/languages (e.g., [Jin](https://en.wikipedia.org/wiki/Jin_Chinese) and [Gan](https://en.wikipedia.org/wiki/Gan_Chinese) Chinese), a challenging yet immensely rewarding experience!
 
@@ -62,7 +62,7 @@ Awards (selected)
 Research
 ======
 * Project of the HKUST-Southeastern University (SEU) Joint Research Seed Fund (HKUST PI: Prof. Quentin Qin; SEU PI: Prof. Yu Chen), 2026 – 2027
-  * Members of the Joint Research Team
+  * Member of the Joint Research Team
 
 * Project of the Research Grants Council of Hong Kong (PI: Prof. Quentin Qin), Summer 2024
   * Research Assistant (data collection and analysis)
