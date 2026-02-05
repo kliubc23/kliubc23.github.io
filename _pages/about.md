@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at the [Speech, Learning, and the Brain (SLaB) Lab](https://slab-lab.github.io) at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. Quentin Zhen QIN. My PhD study is funded by the prestigious [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (the Research Grants Council of Hong Kong, RGC).
+I am a PhD student at the [Speech, Learning, and the Brain (SLaB) Lab](https://slab-lab.github.io) at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. Quentin Zhen QIN. My PhD study is funded by the prestigious [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (The Research Grants Council of Hong Kong, RGC).
 
 My research focuses on [phonetics](https://en.wikipedia.org/wiki/Phonetics#), [psycholinguistics](https://en.wikipedia.org/wiki/Psycholinguistics), and [neurolinguistics](https://en.wikipedia.org/wiki/Neurolinguistics). Currently at HKUST, my work aims to uncover the mechanisms of learning and memory across the lifespan. My PhD research investigates how emerging technologies (i.e., [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality)) influence the learning and consolidation of lexical tones. I also examine how sleep, including both nocturnal sleep and daytime naps, facilitates non-native tone learning (i.e., [Cantonese](https://en.wikipedia.org/wiki/Cantonese_phonology)) through memory consolidation in older Mandarin-speaking adults.
 
@@ -31,7 +31,7 @@ Education
 Grants
 ======
 * Research Grants
-  * Strengthened Funding Support for HKPFS Awardees (the University Grants Committee of Hong Kong), 2025 – 2026, HK$ 46,106
+  * Strengthened Funding Support for HKPFS Awardees (The University Grants Committee of Hong Kong), 2025 – 2026, HK$ 46,106
   * HUMA Postgraduate Research Grant (HKUST), 2023 – present, HK$ 42,000
   * Postgraduate Student Research Training Project (NKU), 2021
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
