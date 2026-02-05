@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the [Speech, Learning, and the Brain (SLaB) Lab](https://slab-lab.github.io) at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. Quentin Zhen QIN. My PhD study is funded by the prestigious [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (the Research Grants Council of Hong Kong, RGC).
 
-My research focuses on [phonetics](https://en.wikipedia.org/wiki/Phonetics#) and [psycholinguistics](https://en.wikipedia.org/wiki/Psycholinguistics). Currently at HKUST, my work aims to uncover the mechanisms of learning and memory from a psycholinguistic perspective. Specifically, I examine how sleep, including both nocturnal sleep and daytime naps, facilitates non-native tone learning (i.e., [Cantonese](https://en.wikipedia.org/wiki/Cantonese_phonology)) through memory consolidation in older Mandarin-speaking adults. These projects explore the memory encoding, consolidation, and forgetting in aging brains to develop interventions against memory decline. 
+My research focuses on [phonetics](https://en.wikipedia.org/wiki/Phonetics#), [psycholinguistics](https://en.wikipedia.org/wiki/Psycholinguistics), and [neurolinguistics](https://en.wikipedia.org/wiki/Neurolinguistics). Currently at HKUST, my work aims to uncover the mechanisms of learning and memory across the lifespan. My PhD research investigates how emerging technologies (i.e., [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality)) influence the learning and consolidation of lexical tones. I also examine how sleep, including both nocturnal sleep and daytime naps, facilitates non-native tone learning (i.e., [Cantonese](https://en.wikipedia.org/wiki/Cantonese_phonology)) through memory consolidation in older Mandarin-speaking adults.
 
 While my current work focuses on non-native tone learning, my earlier research investigated the production-perception link of native tones. My fascination with Chinese tones came from my first research project on tone variation and change. I am also interested in the cross-linguistic study of lexical tones. To date, I have conducted fieldwork on several Chinese dialects/languages (e.g., [Jin](https://en.wikipedia.org/wiki/Jin_Chinese) and [Gan](https://en.wikipedia.org/wiki/Gan_Chinese) Chinese), a challenging yet immensely rewarding experience!
 
@@ -31,7 +31,8 @@ Education
 Grants
 ======
 * Research Grants
-  * HUMA Postgraduate Research Grant (HKUST), 2023 – present
+  * Strengthened Funding Support for HKPFS Awardees, University Grants Committee, 2025 – 2026, HK$ 46,106
+  * HUMA Postgraduate Research Grant (HKUST), 2023 – present, HK$ 42,000
   * Postgraduate Student Research Training Project (NKU), 2021
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
@@ -60,6 +61,9 @@ Awards (selected)
 
 Research
 ======
+* Project of the HKUST-Southeastern University (SEU) Joint Research Seed Fund (HKUST PI: Prof. Quentin Qin; SEU PI: Prof. Yu Chen), 2026-2027
+  * Members of the Joint Research Team
+
 * Project of the Research Grants Council of Hong Kong (PI: Prof. Quentin Qin), Summer 2024
   * Research Assistant (data collection and analysis)
 
@@ -68,10 +72,13 @@ Research
 
 Teaching
 ======
-* HUMA 1010 Introduction to Language (HKUST), Fall 2024
+* HUMA 2400 Approaches to Humanities in China Studies (HKUST), Spring 2024/2025/2026
   * Teaching Assistant
 
-* HUMA 2400 Approaches to Humanities in China Studies (HKUST), Spring 2024/2025
+* HUMA 1676 Marco Polo and His Book of Travels (HKUST), Fall 2025
+  * Teaching Assistant 
+
+* HUMA 1010 Introduction to Language (HKUST), Fall 2024
   * Teaching Assistant
 
 Service
@@ -91,11 +98,9 @@ Skills
 ======
 * Phonetics: Praat; VoiceSauce
 * Psychology: E-prime; Psychopy; Paradigm; DmDX; EEG data acquisition
-* Data preprocessing and analysis: R; Python; MATLAB (EEGLAB); SPSS
+* Data preprocessing and analysis: R; Python; MATLAB (EEGLAB, SPM); SPSS
 * Language: Mandarin (native); English (IELTS 7); Cantonese (beginner)
 
 # Contact me
 * Email: kliubc@connect.ust.hk
-
-**Please navigate using the menu to access my publications and presentations.**
 
