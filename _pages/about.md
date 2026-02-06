@@ -31,8 +31,8 @@ Education
 Grants
 ======
 * Research Grants
-  * Strengthened Funding Support for HKPFS Awardees (University Grants Committee, Hong Kong), 2025 – 2026, HK$ 46,106
-  * HUMA Postgraduate Research Grant (HKUST), 2023 – present, HK$ 42,000
+  * Strengthened Funding Support for HKPFS Awardees (University Grants Committee, Hong Kong), 2025 – 2026
+  * HUMA Postgraduate Research Grant (HKUST), 2023 – present
   * Postgraduate Student Research Training Project (NKU), 2021
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
