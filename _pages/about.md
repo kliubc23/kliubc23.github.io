@@ -38,7 +38,7 @@ Grants
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
 * Travel Grants
-  * HKPFS Travel Grant (RGC), 2025/2026
+  * HKPFS Travel Grant (RGC), 2026
   * Student Transportation Subsidy (Acoustical Society of America), 2024/2025
   * Research Travel Grant (HKUST), 2024/2025
   * International Conference Travel Grant (NKU), 2023
