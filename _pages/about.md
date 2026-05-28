@@ -32,11 +32,13 @@ Grants
 ======
 * Research Grants
   * Strengthened Funding Support for HKPFS Awardees (University Grants Committee, Hong Kong), 2025 – 2026
+  * Research Fund for PhD Students (School of Humanities and Social Science, HKUST), 2025-2026
   * HUMA Postgraduate Research Grant (HKUST), 2023 – present
   * Postgraduate Student Research Training Project (NKU), 2021
     * Awarded the Excellent Project (award rate: around 10%, 11 out of 91 funded projects)
 
 * Travel Grants
+  * HKPFS Travel Grant (RGC), 2025/2026
   * Student Transportation Subsidy (Acoustical Society of America), 2024/2025
   * Research Travel Grant (HKUST), 2024/2025
   * International Conference Travel Grant (NKU), 2023
@@ -90,6 +92,7 @@ Service
 
 Memberships
 ======
+* Society for the Neurobiology of Language, 2026 – present
 * The Linguistic Society of Hong Kong (LSHK), 2025 – present
 * Acoustical Society of America (ASA), 2024 – present
 * International Association of Chinese Linguistics (IACL), 2022 – 2023
